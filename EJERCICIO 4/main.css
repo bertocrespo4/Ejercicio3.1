@@ -1,0 +1,27 @@
+.menu {
+margin: 20px;
+background-color: rgba(15, 151, 40, 0.948);
+width: 300px;
+}
+
+.menu p {
+    font-weight: bold;
+    font-size: 20px;
+    width: 130px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+.menu p:hover {
+    background-color: lightgreen;
+}
+
+.menu a {
+color: white;
+text-decoration: none;
+}
+
+.head {
+    width: 130px;
+    background-color: green;
+}
